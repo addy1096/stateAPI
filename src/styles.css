@@ -1,0 +1,10 @@
+.App {
+    display: flex;
+  }
+  
+  .App > div {
+    width: 50%;
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
